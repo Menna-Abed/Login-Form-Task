@@ -1,11 +1,8 @@
 
- body{
+body{
   height:100%;
   margin:0;
-  font-family: "Segoe UI", Roboto, Arial, sans-serif;
-}
-
-body{
+  font-family:Roboto, Arial, sans-serif;
   background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20250507/pngtree-the-sunset-over-mountains-with-an-orange-sky-image_17267930.jpg");
   background-size: cover;
   background-position: center;
@@ -122,5 +119,6 @@ input[type="password"]:focus{
   box-shadow: 0 8px 22px rgba(255,82,120,0.12);
   font-size:16px;
 }
+
 
  
